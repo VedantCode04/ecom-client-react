@@ -22,31 +22,31 @@ Technologies used in the project:
 <h3>Backend screenshots</h3>
 <img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/8.png" alt="project-screenshot" width="1390" height="500/">
 
-<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/9.png" alt="project-screenshot" width="1190" height="500/">
+<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/9.png" alt="project-screenshot" width="1390" height="500/">
 
-<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/10.png" alt="project-screenshot" width="1190" height="500/">
+<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/10.png" alt="project-screenshot" width="1390" height="500/">
 
-<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/11.png" alt="project-screenshot" width="1190" height="500/">
+<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/11.png" alt="project-screenshot" width="1390" height="500/">
 
-<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/12.png" alt="project-screenshot" width="1190" height="500/">
+<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/12.png" alt="project-screenshot" width="1390" height="500/">
 
-<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/13.png" alt="project-screenshot" width="1190" height="500/">
+<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/13.png" alt="project-screenshot" width="1390" height="500/">
 
 <h3>Frontend screenshots</h3>
 
-<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/1.png" alt="project-screenshot" width="1190" height="500/">
+<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/1.png" alt="project-screenshot" width="1390" height="500/">
 
-<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/2.png" alt="project-screenshot" width="1190" height="500/">
+<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/2.png" alt="project-screenshot" width="1390" height="500/">
 
-<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/3.png" alt="project-screenshot" width="1190" height="500/">
+<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/3.png" alt="project-screenshot" width="1390" height="500/">
 
-<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/4.png" alt="project-screenshot" width="1190" height="500/">
+<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/4.png" alt="project-screenshot" width="1390" height="500/">
 
-<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/5.png" alt="project-screenshot" width="1190" height="500/">
+<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/5.png" alt="project-screenshot" width="1390" height="500/">
 
-<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/6.png" alt="project-screenshot" width="1190" height="500/">
+<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/6.png" alt="project-screenshot" width="1390" height="500/">
 
-<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/7.png" alt="project-screenshot" width="1190" height="500/">
+<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/7.png" alt="project-screenshot" width="1390" height="500/">
 
 
 
