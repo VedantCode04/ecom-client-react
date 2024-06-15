@@ -9,7 +9,7 @@
 Technologies used in the project:
 
 *   **Frontend Technology:** React.js
-*   **State Management:** Redux-Toolkit
+*   **State Management:** Redux-Toolkit, Redux-Persist
 *  **Routing:** React-router-dom
 *   **Content management system**: Strapi Headless CMS
 
