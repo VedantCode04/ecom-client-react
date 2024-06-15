@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/VedantCode04/full-stack-ecom/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-<p id="description">Created a full stack ecommerce website using React.js Redux Toolkit and Strapi Headless CMS for content management</p>
+<p id="description">Developed a full stack ecommerce website using React.js Redux Toolkit and Strapi Headless CMS for content management</p>
 
 <h2>🚀 Demo</h2>
 
