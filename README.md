@@ -18,6 +18,7 @@ Here're some of the project's best features:
 *   Filter by Type
 *   Filter by Price
 *   Sort by Price: HIgh - Low
+*   See all Products
 *   Payment
 *   View by Categories
 *   Search for Products
