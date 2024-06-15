@@ -1,0 +1,62 @@
+.products{
+    display: flex;
+    padding: 30px 50px;
+    margin-bottom: 50px;
+    
+    .left{
+     flex: 1;
+
+     position: sticky;
+     height: 100%;
+     top: 50px;
+
+     h2{
+        font-size: 35px;
+        text-decoration: none;
+        font-weight: 500;
+     }
+     label{
+        font-size: 30px;
+     }
+
+     input[type="checkbox"]{
+        width: 30px;
+        height: 30px;
+        margin-right: 10px;
+     }
+
+     input[type="radio"]{
+        width: 30px;
+        height: 30px;
+        margin-left: 10px;
+     }
+     input[type="range"]{
+        width: 180px;
+        height: 30px;
+        margin-right: 10px;
+     }
+     .inputItem{
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        margin: 10px;
+     }
+
+     .price{
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        font-size: 30px;
+     }
+    }
+
+    .right{
+        flex: 3;
+
+        .catImg{
+            width: 100%;
+            height: 400px;
+            object-fit: cover;
+        }
+    }
+}

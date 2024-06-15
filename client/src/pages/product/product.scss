@@ -1,0 +1,100 @@
+.product{
+    padding: 20px 50px;
+    display: flex;
+    gap: 40px;
+
+    .left{
+        display: flex;
+
+        gap: 10px;
+        flex-direction: row-reverse;
+        gap: 10px;
+        .images{
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            img{
+                width: 100%;
+                height: 200px;
+            }
+        }
+
+        .mainImage{
+
+            img{
+                height: 100%;
+                width: 400px;
+                max-height: 800px;
+                object-fit: cover;
+            }
+        }
+
+    }
+
+    .right{
+        margin: 20px;
+        margin-left: 200px;
+        .main{
+            
+            h1{
+                font-size: 40px;
+            }
+            
+            span , p{
+                font-size: 35px;
+            }
+
+            span{
+                color: rgb(0, 119, 255);
+            }
+
+        }
+        .quantity{
+            margin: 20px;
+            display: flex;
+            gap: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            font-size: 35px;
+
+            button{
+                background: rgb(201, 233, 255);
+                border: 0;
+                border-radius: 7px;
+                height: 40px;
+                width: 40px;
+                font-size: 30px;
+                text-align: center;
+                transition: 0.3s linear;
+            }
+
+            button:hover{
+                transform: scale(0.90);
+                border: 1px black solid;
+            }
+        }
+        .add{
+            display: flex;
+            flex-direction: column;
+            
+            gap: 15px;
+            button{
+                display: flex;
+                align-items: center;
+                width: 270px;
+                justify-content: space-between;
+                background: rgb(201, 233, 255);
+                border: 0;
+                padding: 10px 20px;
+                border-radius: 7px;
+                font-size: 25px;
+                transition: 0.3s linear;
+            }
+            button:hover{
+                transform: scale(0.90);
+                border: 1px black solid;
+            }
+        }
+    }
+}

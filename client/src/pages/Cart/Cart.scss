@@ -1,0 +1,100 @@
+.cart-container {
+  margin: 20px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+
+  a{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+  }
+
+  .cart-items {
+    h1{
+        font-size: 50px;
+        text-decoration: underline;
+    }
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    width: 80vw;
+    flex-direction: column;
+
+    .items {
+      display: flex;
+      flex-direction: row;
+    }
+    .cart-item {
+      margin-right: 10px;
+      margin-bottom: 10px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      width: 300px; // Adjust according to your design
+      flex-shrink: 0; // Prevent items from shrinking
+
+      .item-image {
+        width: 100%;
+        height: 450px;
+        border-radius: 5px;
+      }
+
+      .item-details {
+        .item{
+            margin: 3px;
+            display: flex;
+        justify-content: space-between;
+        font-size: 20px;
+        }
+        padding: 2px;
+        h2 {
+          font-size: 30px;
+          margin: 5px;
+        }
+      }
+    }
+  }
+
+  .right {
+    .header{
+        border: 5px solid rgb(167, 167, 167);
+        width: fit-content;
+        height: fit-content;
+        padding: 5px 10px;
+    }
+    border-radius: 25px;
+    position: absolute;
+    top: 150px;
+    right: 300px;
+    width: 350px;
+    padding: 20px;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    .payment {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 20px;
+      border-radius: 5px;
+      background-color: rgb(0, 102, 255);
+      width: 200px;
+      padding: 10px 20px;
+      align-items: center;
+      border: none;
+      color: white;
+      font-size: 25px;
+      width: inherit;
+      gap: 20px;
+      transition: 0.2s linear;
+    }
+
+    .payment:hover {
+      transform: scale(0.9);
+      background-color: rgb(95, 159, 255);
+    }
+  }
+}

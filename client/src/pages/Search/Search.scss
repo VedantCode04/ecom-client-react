@@ -1,0 +1,19 @@
+.search {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  #search {
+    span{
+        font-size: 30px;
+        padding: 10px 20px;
+    }
+    .searchinput {
+      height: 25px;
+      width: 300px;
+      font-size: 25px;
+      padding: 10px 20px;
+      border-radius: 10px;
+    }
+  }
+}
