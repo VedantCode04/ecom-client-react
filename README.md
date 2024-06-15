@@ -4,6 +4,15 @@
 
 <p id="description">Created a full stack ecommerce website using React.js Redux Toolkit and Strapi Headless CMS for content management</p>
 
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   **Frontend Technology:** React.js
+*   **State Management:** Redux-Toolkit
+*  **Routing:** React-router-dom
+*   **Content management system**: Strapi Headless CMS
+
 <h2>🚀 Demo</h2>
 
 [Youtube.com](Youtube.com)
@@ -58,14 +67,3 @@ Here're some of the project's best features:
 *   Create a new category
 *   Create a new Product
 *   Create a new sub-category
-
-  
-  
-<h2>💻 Built with</h2>
-
-Technologies used in the project:
-
-*   React.js
-*   Redux-Toolkit
-*   React-router-dom
-*   Strapi Headless CMS
