@@ -20,7 +20,7 @@ Technologies used in the project:
 <h2>Project Screenshots:</h2>
 
 <h3>Backend screenshots</h3>
-<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/8.png" alt="project-screenshot" width="1190" height="500/">
+<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/8.png" alt="project-screenshot" width="1390" height="500/">
 
 <img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/9.png" alt="project-screenshot" width="1190" height="500/">
 
