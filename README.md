@@ -1,21 +1,55 @@
-<h1 align="center" id="title">Ecommerce</h1>
-
-<p align="center"><img src="https://socialify.git.ci/VedantCode04/full-stack-ecom/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<h1 align="center" id="title">Lavish Lifestyle: Clothing Ecommerce app</h1>
 
 <p id="description">Created a full stack ecommerce website using React.js Redux Toolkit and Strapi Headless CMS for content management</p>
 
-<h2>💻 Built with</h2>
+# Project Name: Lavish Lifestyle
 
-Technologies used in the project:
+## Tech Used:
+- React.js
+- Redux Toolkit
+- React Router
+- Strapi Headless CMS
+- MySQL
 
-*   **Frontend Technology:** React.js
-*   **State Management:** Redux-Toolkit, Redux-Persist
-*  **Routing:** React-router-dom
-*   **Content management system**: Strapi Headless CMS
+## Description:
+A responsive e-commerce project showcasing dynamic product management and seamless user experience.
 
+### Frontend:
+#### Home Page:
+- Displayed an automatic image slider using the Splide library in React.js.
+
+#### Featured Section:
+- Fetched all products under the featured section dynamically from Strapi, categorized as "Featured".
+
+#### Top Picks Section:
+- Fetched all products under the top picks section dynamically from Strapi, categorized as "Top Picks".
+
+#### Categories:
+- Dynamically fetched products defined as category types in Strapi from the database.
+- Admins can create, update, and delete products, categories, and sub-categories using the Strapi admin panel.
+- Admins can upload product images as well as category main images.
+- Users can filter products by categories, sub-categories, and price range, and sort prices by ascending or descending order.
+
+#### Product Page:
+- Displays the selected product with options to increase or decrease the quantity to add to the cart.
+
+#### Cart Page:
+- Implemented add-to-cart functionality using Redux Toolkit.
+- Used Redux Persist to store cart data in the client's local storage.
+- Features include reset cart functionality, proceed to payment, and confirmation of payment after entering details.
+
+#### All Products Section:
+- Displays all available products in the database.
+
+#### Search Function:
+- Implemented debouncing (500ms) to reduce API calls and enhance search performance.
+
+### Backend:
+#### Strapi CMS:
+- Configured to allow admins to create, update, and delete products and categories.
+- Enables admins to upload product and category images.
+- Created custom API endpoints for seamless data retrieval via Axios, empowering admin functionalities.
 <h2>🚀 Demo</h2>
-
-[Youtube.com](Youtube.com)
 
 <h2>Project Screenshots:</h2>
 
@@ -47,23 +81,3 @@ Technologies used in the project:
 <img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/6.png" alt="project-screenshot" width="1390" height="500/">
 
 <img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/7.png" alt="project-screenshot" width="1390" height="500/">
-
-
-
-
-  
-  
-<h2>🧐 Features</h2>
-
-Here're some of the project's best features:
-
-*   Add to Cart
-*   Filter by Type
-*   Filter by Price
-*   Sort by Price: HIgh - Low
-*   Payment
-*   View by Categories
-*   Search for Products
-*   Create a new category
-*   Create a new Product
-*   Create a new sub-category
