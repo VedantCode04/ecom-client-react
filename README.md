@@ -1,5 +1,5 @@
 # Admin code:-
-
+[Admin Code Github](https://github.com/VedantCode04/ecom-strapi-admin)
 
 <h1 align="center" id="title">Lavish Lifestyle: Clothing Ecommerce app</h1>
 
