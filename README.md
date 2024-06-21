@@ -5,7 +5,7 @@
 
 <p id="description">Created a full stack ecommerce website using React.js Redux Toolkit and Strapi Headless CMS for content management</p>
 
-# Project Name: Lavish Lifestyle
+# Project Name: Lavish Layers
 
 ## Tech Used:
 - React.js
