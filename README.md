@@ -73,7 +73,7 @@ A responsive e-commerce project showcasing dynamic product management and seamle
 
 <img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/1.png" alt="project-screenshot" width="1390" height="500/">
 
-<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/2.png" alt="project-screenshot" width="1390" height="500/">
+<img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/2.png" alt="project-screenshot" width="1390" height="400/">
 
 <img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/3.png" alt="project-screenshot" width="1390" height="500/">
 <img src="https://github.com/VedantCode04/full-stack-ecom/blob/main/screenshots/16.png" alt="project-screenshot" width="1390" height="500/">
