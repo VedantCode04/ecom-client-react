@@ -1,3 +1,6 @@
+# Admin code:-
+
+
 <h1 align="center" id="title">Lavish Lifestyle: Clothing Ecommerce app</h1>
 
 <p id="description">Created a full stack ecommerce website using React.js Redux Toolkit and Strapi Headless CMS for content management</p>
