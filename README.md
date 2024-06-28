@@ -1,7 +1,10 @@
 # Admin code:-
 [Admin Code Github](https://github.com/VedantCode04/ecom-strapi-admin)
 
-<h1 align="center" id="title">Lavish Lifestyle: Clothing Ecommerce app</h1>
+# Demo Video:-
+[Youtube](https://youtu.be/g9xMgZLKczg?feature=shared)
+
+<h1 align="center" id="title">Lavish Layers: Clothing Ecommerce app</h1>
 
 <p id="description">Created a full stack ecommerce website using React.js Redux Toolkit and Strapi Headless CMS for content management</p>
 
