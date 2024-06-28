@@ -1,5 +1,5 @@
-# Admin code:-
-[Admin Code Github](https://github.com/VedantCode04/ecom-strapi-admin)
+# Strapi Backend code:-
+[Strapi Github](https://github.com/VedantCode04/ecom-strapi-admin)
 
 # Demo Video:-
 [Youtube](https://youtu.be/g9xMgZLKczg?feature=shared)
